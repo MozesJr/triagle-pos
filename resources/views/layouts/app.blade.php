@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <title>@yield('title') || {{ config('app.name') }}</title>
-    <meta content="Fahim Anzam Dip" name="author">
     <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
 
     <!-- Favicon -->
@@ -34,4 +34,5 @@
 
     @include('includes.main-js')
 </body>
+
 </html>

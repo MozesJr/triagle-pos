@@ -8,7 +8,7 @@
 
 # Local Installation
 
-- run `` git clone https://github.com/FahimAnzamDip/triangle-pos.git ``
+- run `` git clone  https://github.com/MozesJr/triagle-pos.git ``
 - run ``composer install `` 
 - run `` npm install ``
 - run ``npm run dev``
@@ -23,7 +23,7 @@
 > **Important Note:** "Triangle POS" uses Laravel Snappy Package for PDFs. If you are using Linux then no configuration is needed. But in other Operating Systems please refer to [Laravel Snappy Documentation](https://github.com/barryvdh/laravel-snappy).
 
 # Admin Credentials
-> Email: super.admin@test.com || Password: 12345678
+> Email: admin@admin.com || Password: 12345678
 
 ## Demo
 ![Triangle POS](public/images/screenshot.jpg)
